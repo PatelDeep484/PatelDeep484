@@ -62,12 +62,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif"  />
+<img align="right" height="111" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif"  />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pateldeep484/pateldeep484/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pateldeep484/count.svg?"  />
+</div>
 
 ###
